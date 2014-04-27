@@ -1,10 +1,15 @@
 #run\_analysis.R process:
 ##TEST DATA SET
 pull in normalized data
+
 pull in activity types
+
 label activities
+
 pull in subjects
+
 combine all test data into one dataset
+
 mark this set 
 ## TRAIN DATA SET
 pull in normalized data
