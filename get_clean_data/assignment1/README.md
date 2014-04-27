@@ -22,10 +22,12 @@ pull in subjects
 
 combine all training data into one dataset
 
-label set
+mark this set
 ##COMBINE TEST AND TRAINING SET
 subset1: extract data that contains mean or std
 
-save subset1
+save subset1 (uses grep and subsetting)
 
-average of each variable for each activity and each subject
+average of each variable for each activity and each subject (uses melt and dcast)
+
+save reshape1
