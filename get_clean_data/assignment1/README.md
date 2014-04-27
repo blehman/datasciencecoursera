@@ -27,7 +27,7 @@ mark this set
 simple rbind
 
 ##create subset1 and reshape1
-use greap and subsetting to extract data that contains mean or std 
+use grep and subsetting to extract data that contains mean or std 
 
 save subset1 
 
