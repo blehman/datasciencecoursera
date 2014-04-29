@@ -2,7 +2,7 @@
 
 Note1: these fields contain a mean or std.
 
-Note2: "act_num", "act_txt", "subject", and "set" were to respectively lable the activity number, 
+Note2: "act_num", "act_txt", "subject", and "set" were added to respectively label the activity number, 
 activity description, subject number, and train/test set.
 
 
