@@ -1,7 +1,10 @@
 #Explanation of process: run\_analysis.R
 
-NOTE: 1st set the working directory in R to the location where the data is located. If you copy this repo, then use datasciencecoursera/get\_clean\_data/assignment1/data/
+1st: set the working directory in R to the location where the data is located. If you copy this repo, then use datasciencecoursera/get\_clean\_data/assignment1/data/
 
+2nd: ./run\_analysis.R
+
+note: below you can see an explanation of the process happening in run\_analysis.R
 ##test data
 pull in normalized data
 
